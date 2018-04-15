@@ -16,4 +16,8 @@ public class ObjectCounter {
         System.out.println("-------------------------------------------------");
         Punkt.PokazOstatniObiekt();
     }
+     /*Program losuje 3 liczby z zakresu od 1 do 999, ktore zapisuje jako wspolrzedne.
+       Robi to 10 razy dzieki petli for i zapisuje te dane w obiektach. Na biezaco wyswietla
+       ktory obiekt z kolei sie tworzy. Nastepnie wyswietla ostatni utworzony obiekt z jego wspolrzednymi.
+*/
 }
