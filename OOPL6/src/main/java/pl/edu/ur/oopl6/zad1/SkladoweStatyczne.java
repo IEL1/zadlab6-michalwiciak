@@ -84,6 +84,9 @@ public class SkladoweStatyczne {
                 double h3 = scanner.nextDouble();
                 System.out.println(Figury.ObjetoscWalca(r7,h3));
                 break;
+            default:
+                System.out.println("Podano niewlasciwy numer");
+                break;
         }
     }
     
